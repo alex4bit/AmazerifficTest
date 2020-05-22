@@ -1,0 +1,17 @@
+ol {
+  border: 5px solid darksalmon;
+  border-radius: 10px;
+}
+
+ol li {
+  color: brown;
+}
+
+ul li {
+  color: blue;
+}
+
+ul {
+  border: 1px solid yellow;
+  border-radius: 10px;
+}
